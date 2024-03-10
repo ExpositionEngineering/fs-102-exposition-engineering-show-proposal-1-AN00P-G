@@ -31,7 +31,7 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-Talking about the strugle of internationals on picking a mojor.
+Talking about the strugle of internationals.
 
 ## 🔬 Show Details
 
