@@ -6,7 +6,7 @@
 
 * [Show Proposal One](#show-proposal-one)
   * [✨ Table of Contents](#-table-of-contents)
-  * [Gregory M. Kapfhammer](#gregory-m-kapfhammer)
+  * [Anupraj Guragain](#Anupraj Guragain)
   * [Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."](#re-type-the-sentence-i-adhered-to-the-allegheny-college-honor-code-while-completing-this-project)
   * [🏁 One Sentence Pitch](#-one-sentence-pitch)
   * [🔬 Show Details](#-show-details)
@@ -19,12 +19,11 @@
 <!---toc end-->
 
 ## Add Your Name Here
+Anupraj Guragain
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-TODO: You must retype the sentence here in order to digitally sign your pledge.
-
-
+I adhered to the Allegheny College Honor Code while completing this project.
 
 **IMPORTANT:** If you do not type the required sentence then the course
 instructor will not know that you adhered to the Allegheny College Honor Code
@@ -32,71 +31,44 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-TODO: Provide a compelling sentence that summarizes and pitches your podcast
-episode.
+Talking about the strugle of internationals on picking a mojor.
 
 ## 🔬 Show Details
 
-TODO: Provide all of the required details for your podcast episode.
-
-TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
-Topic]`.
-
-- **Title**:
-- **Host**:
-- **Guest**:
+- **Title**: International's Guide
+- **Host**:Anupraj Guragain
+- **Guest**:Angel Astaria (International program manager)
 
 ## 📝 Show Objectives
 
-TODO: Provide a list of of at least three objectives for the podcast episode.
-
-- **Objective One**:
-- **Objective Two**:
-- **Objective Three**:
+- **Objective One**:Helping international students.
+- **Objective Two**:Providing internationals information about the potentials of thier majors
+- **Objective Three**:providing internationals with an outline of a student life in US.
 
 ## 📚 Sample Questions
 
-TODO: Provide a list of of at least three sample questions that the host will
-ask the guest.
+- **Question One**: What challanges should one be ready for as an international student?
+- **Question Two**: What are the most helpful resourses Allegheny provides for an international students?
+- **Question Three**: What do you think about the carrer option that Allegheny provides internationally?
 
-TODO: Provide a justification for why asking this question will achieve one of
-the stated objectives for the podcast episode.
-
-- **Question One**:
-- **Question Two**:
-- **Question Three**:
-
-- **Justification for Question One**:
-- **Justification for Question Two**:
-- **Justification for Question Three**:
+- **Justification for Question One**: So that one can be prepared for their study in US.
+- **Justification for Question Two**:As a internatinal it is difficult to adjust and know about all the Dos and Don'ts, so this will provide informational about that.
+- **Justification for Question Three**: It can help to know about the carrer opportunities that one can gain in the international markets.
 
 ## 🎉 Show Description
 
-TODO: Write at least three to five paragraphs that describe the content of the
-episode, ensuring that the description is both engaging and informative.
+I plan to start my show with introductions about the various things that will be discussed during the episode. It's not possible to include everything in a single episode, so I want to keep the show simple and sweet, with a touch of humor.
 
+Starting the show with the daily life of an international about the adjustments and cultural shocks that are generally experienced. I plan to delve deeper into her past journey as an international student to know what the things are that we should do and what we should not do, and also what resources we have at Allegheny that will make our educational journey easier.
+
+So, I just want to make this episode more of a guide for an international student rather than just talk about majors and minors. Although it is the main topic for our podcast, I think the International's guide matches the context.
 
 ## 📢 Call to Action
 
-TODO: After a person listens to this episode what do you want them to do?
-
-TODO: Write at least two sentences that explain the call to action for this episode.
+After listening to this podcast, I think that an International student will be able to gain a proper guide for their academic journey at Allegheny.
 
 ## 🦜 References
 
-TODO: Please reference at least three web sites or articles from a journal or a
-conference proceedings that you studied when preparing this proposal.
-
-TODO: Make sure that you use correctly formatted Markdown links to the
-references that you consulted when writing this show proposal.
-
-- **Reference One**:
-- **Reference Two**:
-- **Reference Three**:
-
-TODO: If you used any type of artificial intelligence (AI) writing assistant
-tools, please add an additional paragraph that explains clearly specific tools
-you used, how you used them, and what content they helped you to brainstorm,
-write, or revise. While the use of AI writing assistants is permitted as a part
-of the Exposition Engineering course, it is important for you to clearly cite
-all of the tools that you used to create the content in this proposal.
+- **Reference One**:<google.com>
+- **Reference Two**:<https://podcasters.spotify.com/resources/learn/how-to/start-a-podcast>
+- **Reference Three**:<https://www.buzzsprout.com/blog/how-to-start-a-podcast>
