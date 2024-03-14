@@ -18,8 +18,7 @@
 
 <!---toc end-->
 
-## Add Your Name Here
-Anupraj Guragain
+## Anupraj Guragain
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
@@ -69,6 +68,6 @@ After listening to this podcast, I think that an International student will be a
 
 ## 🦜 References
 
-- **Reference One**:<google.com>
+- **Reference One**:<https://www.google.com/>
 - **Reference Two**:<https://podcasters.spotify.com/resources/learn/how-to/start-a-podcast>
 - **Reference Three**:<https://www.buzzsprout.com/blog/how-to-start-a-podcast>
